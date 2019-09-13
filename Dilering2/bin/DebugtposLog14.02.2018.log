@@ -1,0 +1,17 @@
+Info;14.02.2018 10:25:37;Message:_____________
+Info;14.02.2018 10:25:37;Message:Begin expense
+Error;14.02.2018 10:25:42;Message:Error:Field 'ID' doesn't have a default value
+Info;14.02.2018 10:25:52;Message:_____________
+Info;14.02.2018 10:25:52;Message:Begin expense
+Error;14.02.2018 10:25:57;Message:Error:Field 'ID' doesn't have a default value
+Info;14.02.2018 17:45:41;Message:_____________
+Info;14.02.2018 17:45:41;Message:Begin expense
+Error;14.02.2018 17:48:10;Message:Error:Не удалось включить ограничения. По меньшей мере одна строка содержит значение, нарушающее ограничения по отсутствию пустых значений, уникальности или внешним ключам.
+Info;14.02.2018 17:54:00;Message:_____________
+Info;14.02.2018 17:54:01;Message:Begin expense
+Info;14.02.2018 17:58:34;Message:--------------------
+Warning;14.02.2018 17:59:06;Message:end update orders,exp:37
+Info;14.02.2018 18:04:16;Message:_____________
+Info;14.02.2018 18:04:16;Message:Begin expense
+Info;14.02.2018 18:04:36;Message:_____________
+Info;14.02.2018 18:04:36;Message:Begin expense

@@ -1,0 +1,15 @@
+Info;08.02.2018 12:20:06;Message:_____________
+Info;08.02.2018 12:20:06;Message:Begin expense
+Info;08.02.2018 12:20:36;Message:--------------------
+Warning;08.02.2018 12:20:36;Message:end update orders,exp:34
+Info;08.02.2018 12:27:48;Message:_____________
+Info;08.02.2018 12:27:48;Message:Begin expense
+Error;08.02.2018 12:27:53;Message:Error:Ссылка на объект не указывает на экземпляр объекта.
+Info;08.02.2018 12:28:08;Message:_____________
+Info;08.02.2018 12:28:08;Message:Begin expense
+Error;08.02.2018 12:28:21;Message:Error:Ссылка на объект не указывает на экземпляр объекта.
+Info;08.02.2018 12:29:53;Message:_____________
+Info;08.02.2018 12:29:53;Message:Begin expense
+Info;08.02.2018 13:58:12;Message:_____________
+Info;08.02.2018 13:58:12;Message:Begin expense
+Error;08.02.2018 13:58:22;Message:Error:Field 'ID' doesn't have a default value

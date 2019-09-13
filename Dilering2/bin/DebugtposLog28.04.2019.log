@@ -1,0 +1,18 @@
+Info;28.04.2019 12:57:39;Message:_____________
+Info;28.04.2019 12:57:39;Message:Begin expense
+Info;28.04.2019 12:57:49;Message:--------------------
+Warning;28.04.2019 12:57:49;Message:end update orders,exp:1
+Info;28.04.2019 14:33:02;Message:_____________
+Info;28.04.2019 14:33:02;Message:Begin expense
+Info;28.04.2019 15:59:02;Message:_____________
+Info;28.04.2019 15:59:02;Message:Begin expense
+Info;28.04.2019 15:59:17;Message:--------------------
+Warning;28.04.2019 15:59:17;Message:end update orders,exp:2
+Info;28.04.2019 16:40:01;Message:_____________
+Info;28.04.2019 16:40:01;Message:Begin expense
+Info;28.04.2019 16:40:16;Message:--------------------
+Warning;28.04.2019 16:40:16;Message:end update orders,exp:3
+Info;28.04.2019 16:40:41;Message:_____________
+Info;28.04.2019 16:40:41;Message:Begin expense
+Info;28.04.2019 16:40:41;Message:--------------------
+Warning;28.04.2019 16:40:41;Message:end update orders,exp:4

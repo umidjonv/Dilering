@@ -1,0 +1,185 @@
+Info;08.01.2018 0:22:36;Message:_____________
+Info;08.01.2018 0:22:36;Message:Begin expense
+Info;08.01.2018 0:22:51;Message:--------------------
+Warning;08.01.2018 0:22:51;Message:end update orders,exp:3
+Warning;08.01.2018 0:22:51;Message:------End Trigger------
+Info;08.01.2018 0:47:17;Message:_____________
+Info;08.01.2018 0:47:17;Message:Begin expense
+Info;08.01.2018 0:47:22;Message:--------------------
+Warning;08.01.2018 0:47:22;Message:end update orders,exp:4
+Warning;08.01.2018 0:47:22;Message:------End Trigger------
+Info;08.01.2018 0:50:18;Message:_____________
+Info;08.01.2018 0:50:18;Message:Begin expense
+Info;08.01.2018 0:50:23;Message:--------------------
+Warning;08.01.2018 0:50:23;Message:end update orders,exp:5
+Warning;08.01.2018 0:50:23;Message:------End Trigger------
+Info;08.01.2018 1:01:28;Message:_____________
+Info;08.01.2018 1:01:28;Message:Begin expense
+Info;08.01.2018 1:01:28;Message:--------------------
+Warning;08.01.2018 1:01:28;Message:end update orders,exp:6
+Warning;08.01.2018 1:09:44;Message:------End Trigger------
+Info;08.01.2018 1:09:59;Message:_____________
+Info;08.01.2018 1:09:59;Message:Begin expense
+Info;08.01.2018 1:10:06;Message:--------------------
+Warning;08.01.2018 1:10:06;Message:end update orders,exp:7
+Warning;08.01.2018 1:10:18;Message:------End Trigger------
+Info;08.01.2018 1:18:36;Message:_____________
+Info;08.01.2018 1:18:36;Message:Begin expense
+Error;08.01.2018 1:18:36;Message:Error:Входная строка имела неверный формат.
+Info;08.01.2018 1:21:08;Message:_____________
+Info;08.01.2018 1:21:08;Message:Begin expense
+Info;08.01.2018 1:22:00;Message:_____________
+Info;08.01.2018 1:22:00;Message:Begin expense
+Error;08.01.2018 1:22:00;Message:Error:Входная строка имела неверный формат.
+Info;08.01.2018 1:27:28;Message:_____________
+Info;08.01.2018 1:27:28;Message:Begin expense
+Info;08.01.2018 1:27:33;Message:--------------------
+Warning;08.01.2018 1:27:33;Message:end update orders,exp:8
+Warning;08.01.2018 1:27:49;Message:------End Trigger------
+Info;08.01.2018 1:29:49;Message:_____________
+Info;08.01.2018 1:29:49;Message:Begin expense
+Info;08.01.2018 1:30:56;Message:--------------------
+Warning;08.01.2018 1:30:56;Message:end update orders,exp:9
+Warning;08.01.2018 1:31:16;Message:------End Trigger------
+Info;08.01.2018 1:32:03;Message:_____________
+Info;08.01.2018 1:32:03;Message:Begin expense
+Info;08.01.2018 1:32:03;Message:--------------------
+Warning;08.01.2018 1:32:03;Message:end update orders,exp:10
+Warning;08.01.2018 1:32:08;Message:------End Trigger------
+Info;08.01.2018 1:33:31;Message:_____________
+Info;08.01.2018 1:33:31;Message:Begin expense
+Info;08.01.2018 1:33:31;Message:--------------------
+Warning;08.01.2018 1:33:31;Message:end update orders,exp:11
+Info;08.01.2018 2:34:05;Message:_____________
+Info;08.01.2018 2:34:05;Message:Begin expense
+Info;08.01.2018 2:34:15;Message:--------------------
+Warning;08.01.2018 2:34:15;Message:end update orders,exp:1
+Warning;08.01.2018 2:34:15;Message:------End Trigger------
+Info;08.01.2018 2:34:25;Message:_____________
+Info;08.01.2018 2:34:25;Message:Begin expense
+Info;08.01.2018 2:34:30;Message:--------------------
+Warning;08.01.2018 2:34:30;Message:end update orders,exp:2
+Warning;08.01.2018 2:34:30;Message:------End Trigger------
+Info;08.01.2018 9:15:47;Message:_____________
+Info;08.01.2018 9:15:47;Message:Begin expense
+Info;08.01.2018 9:15:47;Message:--------------------
+Warning;08.01.2018 9:15:47;Message:end update orders,exp:3
+Warning;08.01.2018 9:15:47;Message:------End Trigger------
+Info;08.01.2018 9:16:55;Message:_____________
+Info;08.01.2018 9:16:55;Message:Begin expense
+Info;08.01.2018 9:16:55;Message:--------------------
+Warning;08.01.2018 9:16:55;Message:end update orders,exp:4
+Warning;08.01.2018 9:17:00;Message:------End Trigger------
+Info;08.01.2018 9:17:25;Message:_____________
+Info;08.01.2018 9:17:25;Message:Begin expense
+Info;08.01.2018 9:17:32;Message:--------------------
+Warning;08.01.2018 9:17:56;Message:end update orders,exp:5
+Warning;08.01.2018 9:18:03;Message:------End Trigger------
+Info;08.01.2018 9:18:09;Message:_____________
+Info;08.01.2018 9:18:09;Message:Begin expense
+Info;08.01.2018 9:18:09;Message:--------------------
+Warning;08.01.2018 9:18:09;Message:end update orders,exp:6
+Info;08.01.2018 9:20:43;Message:_____________
+Info;08.01.2018 9:20:43;Message:Begin expense
+Info;08.01.2018 9:20:48;Message:--------------------
+Warning;08.01.2018 9:20:48;Message:end update orders,exp:7
+Warning;08.01.2018 9:20:48;Message:------End Trigger------
+Info;08.01.2018 9:23:21;Message:_____________
+Info;08.01.2018 9:23:21;Message:Begin expense
+Info;08.01.2018 9:23:29;Message:--------------------
+Warning;08.01.2018 9:23:29;Message:end update orders,exp:8
+Info;08.01.2018 9:28:36;Message:_____________
+Info;08.01.2018 9:28:36;Message:Begin expense
+Info;08.01.2018 9:28:36;Message:--------------------
+Warning;08.01.2018 9:28:36;Message:end update orders,exp:9
+Warning;08.01.2018 9:28:47;Message:------End Trigger------
+Info;08.01.2018 9:28:58;Message:_____________
+Info;08.01.2018 9:28:58;Message:Begin expense
+Info;08.01.2018 9:28:58;Message:--------------------
+Warning;08.01.2018 9:28:58;Message:end update orders,exp:10
+Warning;08.01.2018 9:29:03;Message:------End Trigger------
+Info;08.01.2018 9:29:18;Message:_____________
+Info;08.01.2018 9:29:18;Message:Begin expense
+Info;08.01.2018 9:29:18;Message:--------------------
+Warning;08.01.2018 9:29:18;Message:end update orders,exp:11
+Warning;08.01.2018 9:29:23;Message:------End Trigger------
+Info;08.01.2018 9:29:28;Message:_____________
+Info;08.01.2018 9:29:28;Message:Begin expense
+Info;08.01.2018 9:29:33;Message:--------------------
+Warning;08.01.2018 9:29:33;Message:end update orders,exp:12
+Warning;08.01.2018 9:29:33;Message:------End Trigger------
+Info;08.01.2018 9:29:43;Message:_____________
+Info;08.01.2018 9:29:43;Message:Begin expense
+Info;08.01.2018 9:29:48;Message:--------------------
+Warning;08.01.2018 9:29:48;Message:end update orders,exp:13
+Warning;08.01.2018 9:29:48;Message:------End Trigger------
+Info;08.01.2018 9:33:33;Message:_____________
+Info;08.01.2018 9:33:33;Message:Begin expense
+Info;08.01.2018 9:33:34;Message:--------------------
+Warning;08.01.2018 9:33:34;Message:end update orders,exp:14
+Info;08.01.2018 9:34:00;Message:_____________
+Info;08.01.2018 9:34:00;Message:Begin expense
+Info;08.01.2018 9:34:05;Message:--------------------
+Warning;08.01.2018 9:34:05;Message:end update orders,exp:15
+Info;08.01.2018 9:35:02;Message:_____________
+Info;08.01.2018 9:35:02;Message:Begin expense
+Info;08.01.2018 9:35:02;Message:--------------------
+Warning;08.01.2018 9:35:06;Message:end update orders,exp:16
+Info;08.01.2018 9:35:21;Message:_____________
+Info;08.01.2018 9:35:21;Message:Begin expense
+Info;08.01.2018 9:35:26;Message:--------------------
+Warning;08.01.2018 9:35:26;Message:end update orders,exp:17
+Info;08.01.2018 9:35:46;Message:_____________
+Info;08.01.2018 9:35:46;Message:Begin expense
+Info;08.01.2018 9:35:46;Message:--------------------
+Warning;08.01.2018 9:35:46;Message:end update orders,exp:18
+Info;08.01.2018 9:35:57;Message:_____________
+Info;08.01.2018 9:35:57;Message:Begin expense
+Info;08.01.2018 9:35:57;Message:--------------------
+Warning;08.01.2018 9:35:57;Message:end update orders,exp:19
+Info;08.01.2018 9:36:19;Message:_____________
+Info;08.01.2018 9:36:19;Message:Begin expense
+Info;08.01.2018 9:36:19;Message:--------------------
+Warning;08.01.2018 9:36:19;Message:end update orders,exp:20
+Info;08.01.2018 9:40:15;Message:_____________
+Info;08.01.2018 9:40:15;Message:Begin expense
+Info;08.01.2018 9:40:20;Message:--------------------
+Warning;08.01.2018 9:40:20;Message:end update orders,exp:21
+Info;08.01.2018 9:40:30;Message:_____________
+Info;08.01.2018 9:40:30;Message:Begin expense
+Info;08.01.2018 9:40:30;Message:--------------------
+Warning;08.01.2018 9:40:30;Message:end update orders,exp:22
+Info;08.01.2018 9:40:45;Message:_____________
+Info;08.01.2018 9:40:45;Message:Begin expense
+Info;08.01.2018 9:40:45;Message:--------------------
+Warning;08.01.2018 9:40:45;Message:end update orders,exp:23
+Info;08.01.2018 9:53:13;Message:_____________
+Info;08.01.2018 9:53:13;Message:Begin expense
+Info;08.01.2018 9:53:18;Message:--------------------
+Warning;08.01.2018 9:53:18;Message:end update orders,exp:24
+Info;08.01.2018 9:54:26;Message:_____________
+Info;08.01.2018 9:54:26;Message:Begin expense
+Info;08.01.2018 9:54:32;Message:--------------------
+Warning;08.01.2018 9:54:32;Message:end update orders,exp:25
+Info;08.01.2018 9:54:42;Message:_____________
+Info;08.01.2018 9:54:42;Message:Begin expense
+Info;08.01.2018 9:54:47;Message:--------------------
+Warning;08.01.2018 9:54:47;Message:end update orders,exp:26
+Info;08.01.2018 10:11:22;Message:_____________
+Info;08.01.2018 10:11:22;Message:Begin expense
+Info;08.01.2018 10:11:27;Message:--------------------
+Warning;08.01.2018 10:11:27;Message:end update orders,exp:27
+Info;08.01.2018 10:20:27;Message:_____________
+Info;08.01.2018 10:20:27;Message:Begin expense
+Info;08.01.2018 10:20:32;Message:--------------------
+Warning;08.01.2018 10:20:32;Message:end update orders,exp:28
+Info;08.01.2018 10:27:27;Message:_____________
+Info;08.01.2018 10:27:27;Message:Begin expense
+Info;08.01.2018 10:27:37;Message:--------------------
+Warning;08.01.2018 10:27:37;Message:end update orders,exp:29
+Info;08.01.2018 10:33:17;Message:_____________
+Info;08.01.2018 10:33:17;Message:Begin expense
+Info;08.01.2018 10:37:39;Message:--------------------
+Warning;08.01.2018 10:37:39;Message:end update orders,exp:30
+Info;08.01.2018 11:18:52;Message:_____________
+Info;08.01.2018 11:18:52;Message:Begin expense

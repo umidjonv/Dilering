@@ -1,0 +1,501 @@
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\tposDesktop.exe.config
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\Interop.AddIn.dll
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.ResolveComReference.cache
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\tposDesktop.exe
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\tposDesktop.pdb
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\ExcelLibrary.dll
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.dll
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\zxing.dll
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.pdb
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.xml
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\Classes.Forms.DesignedForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FormAdmin.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.BackRealize.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.AddRealize.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.AddForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\VirtualKeyboard.FormKeyBoard.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.AddUser.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.DateSelectForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.GetFakturaForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.KeyPadForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ProdListLibra.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ProvReport.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.userPass.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.users.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.commentForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FormLogin.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.LoginForm_O.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.MainForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ContAdd.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.Contragent.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ContragentForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.debtPaid.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FakturaOrgsForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FormDolgi.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FormFaktura.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.Kassa.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\Classes.OpenDay.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.OrderForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.Properties.Resources.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.packing.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.printerSettings.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.printForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ProdList.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SettingsForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.TerminalForm.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.virtualKeyboard.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.GenerateResource.Cache
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.exe
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.pdb
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.PriceForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\tposDesktop.exe.config
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\Interop.AddIn.dll
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.ResolveComReference.cache
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.exe
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.pdb
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\tposDesktop.exe
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\tposDesktop.pdb
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\ExcelLibrary.dll
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.dll
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.dll
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.dll
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\MySql.Data.dll
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\zxing.dll
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.pdb
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.xml
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.pdb
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.xml
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.pdb
+D:\docs\ydisk\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.xml
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.csprojResolveAssemblyReference.cache
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\Classes.Forms.DesignedForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FormAdmin.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.BackRealize.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.AddRealize.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.AddForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\VirtualKeyboard.FormKeyBoard.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.AddUser.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.DateSelectForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.GetFakturaForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.KeyPadForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.PriceForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ProdListLibra.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ProvReport.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.userPass.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.users.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.commentForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FormLogin.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.LoginForm_O.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.MainForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ContAdd.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.Contragent.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ContragentForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.debtPaid.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FakturaOrgsForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FormDolgi.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.FormFaktura.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.Kassa.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\Classes.OpenDay.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.TransferForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.OrderForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.Properties.Resources.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.packing.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.printerSettings.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.printForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.ProdList.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SettingsForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.TerminalForm.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.virtualKeyboard.resources
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.GenerateResource.Cache
+D:\docs\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.CoreCompileInputs.cache
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\tposDesktop.exe.config
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\Interop.AddIn.dll
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.ResolveComReference.cache
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.exe
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.pdb
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\tposDesktop.exe
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\tposDesktop.pdb
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\ExcelLibrary.dll
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.dll
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.dll
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.dll
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\MySql.Data.dll
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\zxing.dll
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.pdb
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.xml
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.pdb
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.xml
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.pdb
+D:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.xml
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.csprojResolveAssemblyReference.cache
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\Classes.Forms.DesignedForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FormAdmin.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.BackRealize.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.AddRealize.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.AddForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\VirtualKeyboard.FormKeyBoard.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.AddUser.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.DateSelectForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.GetFakturaForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.KeyPadForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.PriceForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ProdListLibra.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ProvReport.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.userPass.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.users.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.commentForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FormLogin.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.LoginForm_O.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.MainForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ContAdd.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.Contragent.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ContragentForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.debtPaid.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FakturaOrgsForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FormDolgi.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FormFaktura.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.Kassa.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\Classes.OpenDay.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.TransferForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.OrderForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.Properties.Resources.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.packing.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.printerSettings.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.printForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ProdList.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SettingsForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.TerminalForm.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.virtualKeyboard.resources
+D:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.GenerateResource.Cache
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\tposDesktop.exe.config
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\Interop.AddIn.dll
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.ResolveComReference.cache
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.exe
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.pdb
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\tposDesktop.exe
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\tposDesktop.pdb
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\ExcelLibrary.dll
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.dll
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.dll
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.dll
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\MySql.Data.dll
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\zxing.dll
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.pdb
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.xml
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.pdb
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.WinForms.xml
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.pdb
+E:\123\Новая папка\Dilering\tposDesktop\bin\Debug\LiveCharts.Wpf.xml
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.csprojResolveAssemblyReference.cache
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\Classes.Forms.DesignedForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FormAdmin.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.BackRealize.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.AddRealize.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.AddForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\VirtualKeyboard.FormKeyBoard.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.AddUser.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.DateSelectForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.GetFakturaForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.KeyPadForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.PriceForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ProdListLibra.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ProvReport.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.userPass.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.users.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.commentForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FormLogin.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.LoginForm_O.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.MainForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ContAdd.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.Contragent.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ContragentForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.debtPaid.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FakturaOrgsForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FormDolgi.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.FormFaktura.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.Kassa.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\Classes.OpenDay.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.TransferForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.OrderForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.Properties.Resources.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.packing.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.printerSettings.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.printForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.ProdList.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SettingsForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.TerminalForm.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.virtualKeyboard.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.csproj.GenerateResource.Cache
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormAgents.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormAddNewAgent.resources
+E:\123\Новая папка\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormChangeAgents.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.exe.config
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\Interop.AddIn.dll
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csproj.ResolveComReference.cache
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.exe
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.pdb
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.exe
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.pdb
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\ExcelLibrary.dll
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.dll
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\MySql.Data.dll
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\zxing.dll
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.pdb
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.xml
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\Classes.Forms.DesignedForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormAdmin.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.BackRealize.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddRealize.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\VirtualKeyboard.FormKeyBoard.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddUser.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.DateSelectForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.GetFakturaForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.KeyPadForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.PriceForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProdListLibra.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProvReport.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.userPass.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.users.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.commentForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormLogin.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.LoginForm_O.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.MainForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ContAdd.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Contragent.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ContragentForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.debtPaid.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FakturaOrgsForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormAgents.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormChangeAgents.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormDolgi.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormFaktura.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Kassa.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\Classes.OpenDay.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.TransferForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.OrderForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Properties.Resources.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.packing.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.printerSettings.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.printForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProdList.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SettingsForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.TerminalForm.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.virtualKeyboard.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csproj.GenerateResource.Cache
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormDebt.resources
+C:\Users\Win7-PC\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormPay.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.exe.config
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csproj.ResolveComReference.cache
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.exe
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.pdb
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\Classes.Forms.DesignedForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormAdmin.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.BackRealize.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddRealize.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\VirtualKeyboard.FormKeyBoard.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddUser.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.DateSelectForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.GetFakturaForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.KeyPadForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.PriceForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProdListLibra.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProvReport.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.userPass.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.users.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.commentForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormLogin.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.LoginForm_O.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.MainForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ContAdd.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Contragent.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ContragentForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.debtPaid.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FakturaOrgsForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormAgents.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormChangeAgents.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormDebt.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormDolgi.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormFaktura.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormPay.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Kassa.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\Classes.OpenDay.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.TransferForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.OrderForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Properties.Resources.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.packing.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.printerSettings.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.printForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProdList.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SettingsForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.TerminalForm.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.virtualKeyboard.resources
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csproj.GenerateResource.Cache
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\Interop.AddIn.dll
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.exe
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.pdb
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\ExcelLibrary.dll
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.dll
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\MySql.Data.dll
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\zxing.dll
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.pdb
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.xml
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ObnoxiousGrandfather\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csprojResolveAssemblyReference.cache
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.exe.config
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.exe
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\tposDesktop.pdb
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\ExcelLibrary.dll
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.dll
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\MySql.Data.dll
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\zxing.dll
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.pdb
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.xml
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csprojResolveAssemblyReference.cache
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\Interop.AddIn.dll
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csproj.ResolveComReference.cache
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\Classes.Forms.DesignedForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormAdmin.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.BackRealize.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddRealize.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\VirtualKeyboard.FormKeyBoard.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.AddUser.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.DateSelectForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.GetFakturaForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.KeyPadForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.PriceForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProdListLibra.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProvReport.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.userPass.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.users.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.commentForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormLogin.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.LoginForm_O.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.MainForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ContAdd.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Contragent.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ContragentForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.debtPaid.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FakturaOrgsForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormAgents.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormChangeAgents.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormDebt.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormDolgi.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.FormFaktura.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormPay.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Kassa.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\Classes.OpenDay.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.TransferForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.OrderForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.Properties.Resources.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.packing.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.printerSettings.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.printForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.ProdList.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SettingsForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.SubForms.TerminalForm.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.virtualKeyboard.resources
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csproj.GenerateResource.Cache
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.csproj.CoreCompileInputs.cache
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.exe
+C:\Users\umidjon.vakhidov\Desktop\Dillering\tposDesktop\obj\Debug\tposDesktop.pdb
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormAgents.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormChangeAgents.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormDebt.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.SubForms.frontEnd.FormPay.resources
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\tposDesktop.exe.manifest
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\bin\Debug\tposDesktop.application
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.exe.manifest
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.application
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\tposDesktop.csprojFakesResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\Interop.AddIn.dll
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.csproj.ResolveComReference.cache
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\VirtualKeyboard.FormKeyBoard.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\Classes.Forms.DesignedForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.FormAdmin.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.FormLogin.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.LoginForm_O.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.MainForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.Properties.Resources.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.AddForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.AddRealize.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.AddUser.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.BackRealize.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.DateSelectForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.FakturaOrgsForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.FormFaktura.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.SubForms.GetFakturaForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.KeyPadForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.packing.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.PriceForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.printerSettings.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.printForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.ProdList.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.ProdListLibra.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.ProvReport.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.SettingsForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.userPass.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.users.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.commentForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.ContAdd.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.ContragentForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.Contragent.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.debtPaid.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.SubForms.frontEnd.FormAgents.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.SubForms.frontEnd.FormChangeAgents.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.SubForms.frontEnd.FormDebt.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.SubForms.frontEnd.FormPay.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.Kassa.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\Classes.OpenDay.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.SubForms.TerminalForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.OrderForm.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.virtualKeyboard.resources
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\tposDesktop.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\Dlering2.exe.config
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\Dlering2.exe
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\Dlering2.pdb
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\ExcelLibrary.dll
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\keypad.dll
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.dll
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\zxing.dll
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.pdb
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.xml
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\user\source\repos\Dilering2\Dilering2\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\Dlering2.exe
+C:\Users\user\source\repos\Dilering2\Dilering2\obj\Debug\Dlering2.pdb

@@ -1,0 +1,25 @@
+Info;31.03.2018 14:35:28;Message:_____________
+Info;31.03.2018 14:35:28;Message:Begin expense
+Info;31.03.2018 14:35:33;Message:--------------------
+Error;31.03.2018 14:35:33;Message:Error:Длина входного массива больше числа столбцов в этой таблице.
+Info;31.03.2018 14:35:38;Message:_____________
+Info;31.03.2018 14:35:38;Message:Begin expense
+Info;31.03.2018 14:35:43;Message:--------------------
+Error;31.03.2018 14:35:43;Message:Error:Длина входного массива больше числа столбцов в этой таблице.
+Info;31.03.2018 14:35:53;Message:_____________
+Info;31.03.2018 14:35:53;Message:Begin expense
+Info;31.03.2018 14:50:50;Message:_____________
+Info;31.03.2018 14:50:51;Message:Begin expense
+Info;31.03.2018 14:50:57;Message:--------------------
+Info;31.03.2018 14:53:45;Message:_____________
+Info;31.03.2018 14:53:45;Message:Begin expense
+Info;31.03.2018 14:53:45;Message:--------------------
+Warning;31.03.2018 14:53:45;Message:end update orders,exp:28
+Info;31.03.2018 14:54:15;Message:_____________
+Info;31.03.2018 14:54:15;Message:Begin expense
+Info;31.03.2018 14:54:15;Message:--------------------
+Warning;31.03.2018 14:54:15;Message:end update orders,exp:29
+Info;31.03.2018 14:54:40;Message:_____________
+Info;31.03.2018 14:54:40;Message:Begin expense
+Info;31.03.2018 14:54:45;Message:--------------------
+Warning;31.03.2018 14:54:45;Message:end update orders,exp:31

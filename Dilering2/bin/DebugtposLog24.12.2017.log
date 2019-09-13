@@ -1,0 +1,39 @@
+Info;24.12.2017 17:57:05;Message:_____________
+Info;24.12.2017 17:57:05;Message:Begin expense
+Info;24.12.2017 17:57:06;Message:--------------------
+Warning;24.12.2017 17:57:06;Message:end update orders,exp:14058
+Warning;24.12.2017 17:57:06;Message:------End Trigger------
+Info;24.12.2017 17:58:56;Message:_____________
+Info;24.12.2017 17:58:56;Message:Begin expense
+Info;24.12.2017 17:58:56;Message:--------------------
+Warning;24.12.2017 17:58:56;Message:end update orders,exp:14059
+Warning;24.12.2017 17:58:56;Message:------End Trigger------
+Info;24.12.2017 18:08:43;Message:_____________
+Info;24.12.2017 18:08:43;Message:Begin expense
+Info;24.12.2017 18:08:44;Message:--------------------
+Warning;24.12.2017 18:08:44;Message:end update orders,exp:14060
+Warning;24.12.2017 18:08:44;Message:------End Trigger------
+Info;24.12.2017 21:32:35;Message:_____________
+Info;24.12.2017 21:32:35;Message:Begin expense
+Info;24.12.2017 21:32:45;Message:--------------------
+Warning;24.12.2017 21:32:45;Message:end update orders,exp:14061
+Warning;24.12.2017 21:32:45;Message:------End Trigger------
+Info;24.12.2017 21:39:58;Message:_____________
+Info;24.12.2017 21:39:58;Message:Begin expense
+Info;24.12.2017 21:42:31;Message:_____________
+Info;24.12.2017 21:42:31;Message:Begin expense
+Info;24.12.2017 21:42:41;Message:--------------------
+Warning;24.12.2017 21:42:41;Message:end update orders,exp:14064
+Warning;24.12.2017 21:42:41;Message:------End Trigger------
+Info;24.12.2017 21:46:05;Message:_____________
+Info;24.12.2017 21:46:05;Message:Begin expense
+Error;24.12.2017 21:47:32;Message:Error:Входная строка имела неверный формат.
+Info;24.12.2017 21:47:57;Message:_____________
+Info;24.12.2017 21:47:57;Message:Begin expense
+Info;24.12.2017 22:20:00;Message:_____________
+Info;24.12.2017 22:20:00;Message:Begin expense
+Info;24.12.2017 22:34:22;Message:_____________
+Info;24.12.2017 22:34:22;Message:Begin expense
+Error;24.12.2017 22:34:32;Message:Error:В столбце "contragentId" не допускаются значения равные nulls.
+Info;24.12.2017 22:35:02;Message:_____________
+Info;24.12.2017 22:35:02;Message:Begin expense

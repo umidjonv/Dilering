@@ -1,0 +1,29 @@
+Info;03.03.2018 13:38:17;Message:_____________
+Info;03.03.2018 13:38:17;Message:Begin expense
+Error;03.03.2018 13:38:27;Message:Error:В столбце "debt" не допускаются значения равные nulls.
+Info;03.03.2018 13:38:50;Message:_____________
+Info;03.03.2018 13:38:51;Message:Begin expense
+Info;03.03.2018 13:44:56;Message:_____________
+Info;03.03.2018 13:44:56;Message:Begin expense
+Info;03.03.2018 13:45:18;Message:--------------------
+Warning;03.03.2018 13:45:18;Message:end update orders,exp:51
+Info;03.03.2018 17:23:15;Message:_____________
+Info;03.03.2018 17:23:15;Message:Begin expense
+Info;03.03.2018 17:23:30;Message:--------------------
+Warning;03.03.2018 17:23:30;Message:end update orders,exp:52
+Info;03.03.2018 17:48:34;Message:_____________
+Info;03.03.2018 17:48:34;Message:Begin expense
+Error;03.03.2018 17:48:44;Message:Error:Последовательность не содержит элементов
+Info;03.03.2018 17:49:02;Message:_____________
+Info;03.03.2018 17:49:02;Message:Begin expense
+Error;03.03.2018 17:50:01;Message:Error:Последовательность не содержит элементов
+Info;03.03.2018 17:50:01;Message:_____________
+Info;03.03.2018 17:50:01;Message:Begin expense
+Info;03.03.2018 17:52:53;Message:_____________
+Info;03.03.2018 17:52:53;Message:Begin expense
+Info;03.03.2018 17:53:41;Message:--------------------
+Warning;03.03.2018 17:53:41;Message:end update orders,exp:53
+Info;03.03.2018 20:32:02;Message:_____________
+Info;03.03.2018 20:32:02;Message:Begin expense
+Info;03.03.2018 20:32:07;Message:--------------------
+Warning;03.03.2018 20:32:07;Message:end update orders,exp:54

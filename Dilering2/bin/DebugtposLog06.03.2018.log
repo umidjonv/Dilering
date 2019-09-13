@@ -1,0 +1,36 @@
+Info;06.03.2018 17:41:24;Message:_____________
+Info;06.03.2018 17:41:24;Message:Begin expense
+Info;06.03.2018 17:42:14;Message:_____________
+Info;06.03.2018 17:42:14;Message:Begin expense
+Info;06.03.2018 17:42:14;Message:--------------------
+Warning;06.03.2018 17:42:14;Message:end update orders,exp:56
+Info;06.03.2018 17:48:19;Message:_____________
+Info;06.03.2018 17:48:19;Message:Begin expense
+Error;06.03.2018 17:48:19;Message:Error:Значение для столбца 'overflow' в таблице 'transfer' равно DBNull.
+Info;06.03.2018 17:48:29;Message:_____________
+Info;06.03.2018 17:48:29;Message:Begin expense
+Error;06.03.2018 17:48:48;Message:Error:Значение для столбца 'overflow' в таблице 'transfer' равно DBNull.
+Info;06.03.2018 17:48:48;Message:_____________
+Info;06.03.2018 17:48:48;Message:Begin expense
+Info;06.03.2018 17:51:16;Message:_____________
+Info;06.03.2018 17:51:16;Message:Begin expense
+Info;06.03.2018 17:53:22;Message:--------------------
+Warning;06.03.2018 17:53:22;Message:end update orders,exp:57
+Info;06.03.2018 17:54:33;Message:_____________
+Info;06.03.2018 17:54:33;Message:Begin expense
+Info;06.03.2018 17:55:05;Message:--------------------
+Warning;06.03.2018 17:55:05;Message:end update orders,exp:58
+Info;06.03.2018 18:12:24;Message:_____________
+Info;06.03.2018 18:12:24;Message:Begin expense
+Info;06.03.2018 18:12:24;Message:--------------------
+Warning;06.03.2018 18:12:24;Message:end update orders,exp:59
+Info;06.03.2018 18:13:04;Message:_____________
+Info;06.03.2018 18:13:04;Message:Begin expense
+Info;06.03.2018 18:13:09;Message:--------------------
+Warning;06.03.2018 18:13:09;Message:end update orders,exp:60
+Info;06.03.2018 18:16:04;Message:_____________
+Info;06.03.2018 18:16:04;Message:Begin expense
+Info;06.03.2018 18:16:09;Message:--------------------
+Warning;06.03.2018 18:16:09;Message:end update orders,exp:61
+Info;06.03.2018 18:35:27;Message:_____________
+Info;06.03.2018 18:35:27;Message:Begin expense

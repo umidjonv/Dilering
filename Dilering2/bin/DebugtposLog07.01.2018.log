@@ -1,0 +1,14 @@
+Info;07.01.2018 23:24:29;Message:_____________
+Info;07.01.2018 23:24:29;Message:Begin expense
+Info;07.01.2018 23:27:23;Message:_____________
+Info;07.01.2018 23:27:23;Message:Begin expense
+Info;07.01.2018 23:27:28;Message:--------------------
+Warning;07.01.2018 23:27:28;Message:end update orders,exp:1
+Warning;07.01.2018 23:27:28;Message:------End Trigger------
+Info;07.01.2018 23:43:28;Message:_____________
+Info;07.01.2018 23:43:28;Message:Begin expense
+Info;07.01.2018 23:46:38;Message:_____________
+Info;07.01.2018 23:47:03;Message:Begin expense
+Info;07.01.2018 23:52:08;Message:--------------------
+Warning;07.01.2018 23:52:08;Message:end update orders,exp:2
+Warning;07.01.2018 23:52:08;Message:------End Trigger------

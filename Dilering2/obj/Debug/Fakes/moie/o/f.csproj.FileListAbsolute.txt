@@ -1,0 +1,2 @@
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\Fakes\moie\o\f.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\ydisk\Dilering\tposDesktop\obj\Debug\Fakes\moie\o\f.csproj.CoreCompileInputs.cache
